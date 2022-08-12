@@ -122,7 +122,7 @@ The installation of the libraries used in this project were not required since t
 <a name="Code"></a>
 # Code
 
-Our code was divided into two big sections. We will be explaining what each of these sections achieve in the following lines. It is also worth noting that there are two versions of the Colab Notebook we used. The redeNeuralv1.ipynb is the notebook that was created, developed and ran by us, and the second version (name) is a simplified version, without the executable parts of the code, in order to save lines and make it more readable for others.
+Our code was divided into two big sections. We will be explaining what each of these sections achieve in the following lines. It is also worth noting that there are two versions of the Colab Notebook we used. The redeNeuralv1.ipynb is the notebook that was created, developed and ran by us, and the second version redeNeuralv1ButBetter.ipynb is a simplified version, without the executable parts of the code, in order to save lines and make it more readable for others.
 
 <a name="Gathering-of-the-images-to-use-in-the-training-of-the-neural-network"></a>
 ## Gathering of the images to use in the training of the neural network
